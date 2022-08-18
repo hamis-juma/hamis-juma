@@ -1,4 +1,4 @@
-[![](https://github-readme-stats.vercel.app/api?username=smarroufin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=hamis-juma&theme=dark)](https://github.com/hamis-juma/github-readme-stats)
 
 <!-- ### Hi there 👋
 
