@@ -1,5 +1,7 @@
 [![](https://github-readme-stats.vercel.app/api?username=hamis-juma&theme=dark)](https://github.com/hamis-juma/github-readme-stats)
 
+- 📫 How to reach me: h.hamis@lynrantic.co.tz
+
 <!-- ### Hi there 👋
 
 
