@@ -4,7 +4,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamis-juma)](https://github.com/hamis-juma/github-readme-stats) -->
 
-- 📫 How to reach me: h.hamis@lynrantic.co.tz
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A0Q3279)
+
+- 📫 How to reach me: hamisjuma1@gmail.com
 
 <!-- ### Hi there 👋
 
